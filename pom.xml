@@ -11,9 +11,9 @@
 	</parent>
 
 	<groupId>com.ramacciotti</groupId>
-	<artifactId>builder</artifactId>
+	<artifactId>single responsability</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>builder</name>
+	<name>single responsability</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
